@@ -1,0 +1,11 @@
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\bin\Debug\MemoryMio.exe.config
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\bin\Debug\MemoryMio.exe
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\bin\Debug\MemoryMio.pdb
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\MemoryMio.Form1.resources
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\MemoryMio.Properties.Resources.resources
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\MemoryMio.exe
+C:\Users\Matteo\Desktop\C#\GioiaMemory\MemoryMio\MemoryMio\obj\Debug\MemoryMio.pdb
